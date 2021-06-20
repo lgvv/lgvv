@@ -8,7 +8,7 @@
 - ✉️ email : lgw9898@naver.com   
 - 📋 Tistory : https://rldd.tistory.com   
 - 🌱 I’m currently learning TOEIC, RxSwift, MVVM
-- 🌟 I'm interested in iOS App Development
+- 🌟 I'm interested in iOS App Development (I FxxxING LOVE!)
 
 
 <h3> ⛄️ iOS Project ⛄️</h3>   
