@@ -8,9 +8,15 @@
 - ✉️ email : lgw9898@naver.com   
 - 📋 Tistory : https://rldd.tistory.com   
 - 🌱 I’m currently learning TOEIC, RxSwift, MVVM
+- 🌟 I'm interested in iOS App Development
 
-<br>     
-         
+
+<h3> ⛄️ iOS Project ⛄️</h3>   
+- Mediku <br> 
+- BobBob 
+<br>
+<br> 
+
 ⚒ Tech Stack⚒   
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -22,12 +28,15 @@
 
 <br> 
 
+
+
 🔨 I've used at least once🔨   
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
 
 <br> 
 
