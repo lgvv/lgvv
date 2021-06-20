@@ -1,9 +1,13 @@
 🧑🏻‍💻이건우 GeonWoo Lee
 ----------------   
-🏫 Konkuk Univ. Seoul, Korea   
+
+<br> 
+
+🏫 Konkuk Univ. Seoul, Korea    
 ✏️ Department of Smart ICT convergence   
 ✉️ email : lgw9898@naver.com   
 📋 Tistory : https://rldd.tistory.com   
+<br>     
          
 ⚒ Tech Stack⚒   
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
@@ -14,6 +18,7 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AdobeXd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/></a>
 
+<br> 
 
 🔨 I've used at least once🔨   
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
@@ -21,6 +26,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+
+<br> 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lgvv)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
