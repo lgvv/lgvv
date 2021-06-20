@@ -1,12 +1,14 @@
-🧑🏻‍💻이건우 GeonWoo Lee
+🧑🏻‍💻 이건우 GeonWoo Lee
 ----------------   
 
 <br> 
 
-🏫 Konkuk Univ. Seoul, Korea    
-✏️ Department of Smart ICT convergence   
-✉️ email : lgw9898@naver.com   
-📋 Tistory : https://rldd.tistory.com   
+- 🏫 Konkuk Univ. Seoul, Korea    
+- ✏️ Department of Smart ICT convergence   
+- ✉️ email : lgw9898@naver.com   
+- 📋 Tistory : https://rldd.tistory.com   
+- 🌱 I’m currently learning TOEIC, RxSwift, MVVM
+
 <br>     
          
 ⚒ Tech Stack⚒   
