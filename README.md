@@ -7,13 +7,14 @@
 - ✏️ Department of Smart ICT convergence   
 - ✉️ email : lgw9898@naver.com   
 - 📋 Tistory : https://rldd.tistory.com   
-- 🌱 I’m currently learning TOEIC, RxSwift, MVVM
+- 🌱 I’m currently learning TOEIC, RxSwift, MVVM, Flutter
 - 🌟 I'm interested in iOS App Development 
 
 
 <h3> ⛄️ iOS Project ⛄️</h3>   
 - Mediku <br> 
-- BobBob 
+- BobBob <br>
+- COVID19Alarm <br>
 <br>
 <br> 
 
