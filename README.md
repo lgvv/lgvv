@@ -26,6 +26,8 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AdobeXd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ReactiveX-#B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
+
 
 <br> 
 
