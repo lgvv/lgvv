@@ -15,6 +15,7 @@
 - Mediku <br> 
 - BobBob <br>
 - COVID19Alarm <br>
+- HappyHouse <br>
 <br>
 <br> 
 
@@ -27,6 +28,8 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AdobeXd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+
 
 
 <br> 
@@ -40,6 +43,8 @@
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+
 
 <br> 
 
