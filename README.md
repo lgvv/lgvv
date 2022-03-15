@@ -12,4 +12,4 @@
 
 * 기술들
   * MVC, MVVM, MVP
-  * RxSwfit, RxCocoa, Snapkit, Then, Kingfisher, Alamofire
+  * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then
