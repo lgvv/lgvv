@@ -9,3 +9,7 @@
    * 비대면 의료 서비스(졸업 프로젝트) [링크](https://rldd.tistory.com/239)
    * 광고 없는 밥집 서비스 [링크](https://rldd.tistory.com/238) 
    * 코로나 알림 앱 [링크](https://rldd.tistory.com/233)
+
+* 기술들
+  * MVC, MVVM, MVP
+  * RxSwfit, RxCocoa, Snapkit, Then, Kingfisher, Alamofire
