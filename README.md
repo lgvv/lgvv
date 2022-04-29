@@ -10,6 +10,6 @@
    * 광고 없는 밥집 서비스 [링크](https://rldd.tistory.com/238) 
    * 코로나 알림 앱 [링크](https://rldd.tistory.com/233)
 
-* 기술들
-  * MVC, MVVM, MVP
-  * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then
+* 기타
+  * [디자인패턴](https://github.com/lgvv/DesignPattern) + MVC, MVVM, MVP
+  * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then 
