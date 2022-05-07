@@ -3,7 +3,7 @@
 
 * 🍎 iOS 프로젝트
 * [건국대학교 공지앱] Kuring
-   * [Kuring 앱스토어 링크](https://apps.apple.com/kr/app/%EC%BF%A0%EB%A7%81-%EA%B1%B4%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90-%EA%B3%B5%EC%A7%80%EC%95%B1/id1609873520)
+   * [Kuring 앱스토어 링크](https://apps.apple.com/kr/app/%EC%BF%A0%EB%A7%81-%EA%B1%B4%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90-%EA%B3%B5%EC%A7%80%EC%95%B1/id1609873520) | [쿠링 노션 페이지](https://www.notion.so/kuring/a69fdf7ff06848c2aedef1fdcf13ca57)
 
 * iOS 프로젝트
    * 비대면 의료 서비스(졸업 프로젝트) [링크](https://rldd.tistory.com/239)
