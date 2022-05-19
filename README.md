@@ -15,5 +15,5 @@
   * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then 
 
 <div align=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgw9898)](https://solved.ac/lgw9898/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgw9898)](https://solved.ac/lgw9898/)
 </div>
