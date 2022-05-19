@@ -13,3 +13,5 @@
 * 기타
   * [디자인패턴](https://github.com/lgvv/DesignPattern) + MVC, MVVM, MVP
   * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/lgw9898/)
