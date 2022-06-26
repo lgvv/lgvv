@@ -3,10 +3,11 @@
 
 * UIKit, SwiftUI
 
-* NOW
+* 💨 지금 진행중인 프로젝트
   * Photory프로젝트 iOS 진행중
   * sdk - private
   * app - public
+  * 참여하고 싶은 개발자 분들 언제든지 이메일로 연락주세요:)
 
 * 🍎 iOS 프로젝트
 * 🔔 [건국대학교 공지앱] Kuring
