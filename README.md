@@ -2,7 +2,7 @@
 ## 📋 Tistory
    * 티스토리 블로그: [티스토리 블로그 링크](https://rldd.tistory.com)
 
-## UIKit, SwiftUI
+## 🆚 UIKit, SwiftUI
    * 요즘은 주로 SwiftUI를 사용하고 있습니다. SwiftUI 짱
    * SDK 만드는 연습을 지속적으로 하고 있습니다.
 
@@ -33,9 +33,13 @@
    * [FLO 프로그래머스 과제](https://github.com/lgvv/FLO)
    * HappyHouse - 두굿해커톤 우수상 (2021.08.13 ~ 2021.08.15)
 
-* 기타
+## 기타
   * [디자인패턴](https://github.com/lgvv/DesignPattern) + MVC, MVVM, MVP
-  * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then 
+  * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then, Combine
+  * 외부 라이브러리에 의존하지 않고, 기본만을 이용하여 코드를 작성하려고 노력하고 있습니다. 
+     * 해당 내용에 대한 생각은 블로그 정리 예정 - 가제: 내가 외부 라이브러리를 사용하지 않게 된 이유
+  
+  
  
  <br>
  
