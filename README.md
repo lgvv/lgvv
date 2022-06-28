@@ -13,7 +13,7 @@
   * 참여하고 싶은 개발자 분들 언제든지 이메일로 연락주세요:)
   * [Photory 저장소 - 가제: Kaleub](https://github.com/Kaleub)
   * [협업을 위한 초간단 깃 세미나](https://github.com/Kaleub/git-flow-seminar)
-  * 사용한 오픈소스를 명시하는 spm 제작 완료 (배포 대기중) - private
+  * [Reference를 명시하는 SPM](https://github.com/BoilerSwift/ReferenceKit)
   * 손쉬운 디버그를 위한 spm 제작 완료 (배포 대기중) - private
   * HexColor로 Color사용을 위한 spm 제작 완료(배포 대기중) - private
   
