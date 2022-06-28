@@ -27,6 +27,7 @@
    * 광고 없는 밥집 서비스 
    * 코로나 알림 앱 
    * [FLO 프로그래머스 과제](https://github.com/lgvv/FLO)
+   * 두굿해커톤 우수상 (2021.08.13 ~ 2021.08.15)
 
 * 기타
   * [디자인패턴](https://github.com/lgvv/DesignPattern) + MVC, MVVM, MVP
