@@ -2,7 +2,7 @@
 - 📋 Tistory : https://rldd.tistory.com   <br>
 
 * UIKit, SwiftUI
-* 최근에는 주로 SwiftUI를 사용하고 있습니다.
+   * 최근에는 주로 SwiftUI를 사용하고 있습니다.
 
 
 * 💨 지금 진행중인 프로젝트
