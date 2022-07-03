@@ -19,8 +19,6 @@
   
 ## 🏛 SPM
    * 자주 사용하는 Swift코드를 SPM으로 만들어서 관리하는 조직: [BoilerSwift](https://github.com/BoilerSwift)
-   * Reference를 명시하는 SPM: [ReferenceKit](https://github.com/BoilerSwift/ReferenceKit)
-   * HexColor를 hexcode로 사용하는 SPM: [HexColor](https://github.com/BoilerSwift/HexColor)
 
 ## 🍎 iOS 프로젝트
 * 🔔 [건국대학교 공지앱] Kuring
