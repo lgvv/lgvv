@@ -39,7 +39,4 @@
   
  
  <br>
- 
- 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgw9898)](https://solved.ac/lgw9898/)
   
