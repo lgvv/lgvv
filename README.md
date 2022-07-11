@@ -10,8 +10,7 @@
 ## 💨 지금 진행중인 프로젝트
   * Photory프로젝트 iOS 진행중 (20220709 기준)
   * sdk(private): 개발 완료 후 오픈 예정 (진행도 95): 리팩토링 진행중
-  * app(private): 개발 완료 후 오픈 예정 (진행도 70)
-  * 참여하고 싶은 개발자 분들 언제든지 이메일로 연락주세요:)
+  * app(public): 개발 완료 후 오픈 예정 (진행도 70)
   * [Photory 저장소 - 가제: Kaleub](https://github.com/Kaleub)
   * [협업을 위한 초간단 깃 세미나](https://github.com/Kaleub/git-flow-seminar)
   
