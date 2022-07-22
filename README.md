@@ -28,8 +28,7 @@
 ## 기타
   * [디자인패턴](https://github.com/lgvv/DesignPattern) + MVC, MVVM, MVP
   * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then, Combine
-  * 외부 라이브러리에 의존하지 않고, 기본만을 이용하여 코드를 작성하려고 노력하고 있습니다. 
-     * 해당 내용에 대한 생각은 블로그 정리 예정 - 가제: 내가 서드파티를 사용하지 않게 된 이유
+  * 외부 라이브러리에 사용하기 전, 기본에 더 충실하고자 노력하고 있습니다.
   
   
  
