@@ -40,5 +40,5 @@
   - ⭐️⭐️⭐️⭐️⭐️: iOS, PadOS, SwiftUI, UIKit, Swift
   - ⭐️⭐️⭐️⭐️: RxSwift, ReactorKit
   - ⭐️⭐️⭐️: Combine, Clean Architecture, Flutter, Github Action
-  - ⭐️⭐️: HTML, CSS, javaScript, Python, C, Vapor, Java
+  - ⭐️⭐️: HTML, CSS, javaScript, Python, C, Vapor, Java, CoreML
   - ⭐️: 
