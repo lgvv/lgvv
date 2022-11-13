@@ -34,10 +34,11 @@
   * [디자인패턴](https://github.com/lgvv/DesignPattern) + MVC, MVVM, MVP, ReactorKit
   * Alamofire, Kingfisher, Nimble, Quick ,RxBlocking, RxCocoa, RxSwfit, RxTest, Snapkit, SwiftLint, Then, Combine
   * 외부 라이브러리에 사용하기 전, 기본에 더 충실하고자 노력하고 있습니다.
+  * 깃 플로우를 활용하여 협업하고 있습니다.
  
 ## 기술들
   - ⭐️⭐️⭐️⭐️⭐️: iOS, PadOS, SwiftUI, UIKit, Swift
   - ⭐️⭐️⭐️⭐️: RxSwift, ReactorKit
-  - ⭐️⭐️⭐️: Combine, Clean Architecture, Flutter, Java, Github Action
-  - ⭐️⭐️: HTML, CSS, javaScript, Python, C, Vapor
+  - ⭐️⭐️⭐️: Combine, Clean Architecture, Flutter, Github Action
+  - ⭐️⭐️: HTML, CSS, javaScript, Python, C, Vapor, Java
   - ⭐️: 
