@@ -3,7 +3,7 @@
 
 ## UIKit, SwiftUI
    * SwiftUI를 사용하고 Combine을 학습하고 있습니다.
-   * UIKit + RxSwfit를 사용하고, 더 많은 SDK를 만들고자 학습하고 있씁니다.
+   * UIKit + RxSwfit를 사용하고, 더 많은 SDK를 만들고자 학습하고 있니다.
 
 
 ## 💨 진행중인 프로젝트
