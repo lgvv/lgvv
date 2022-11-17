@@ -29,6 +29,7 @@
 * 기타
    * HappyHouse - 두굿해커톤 우수상 (2021.08.13 ~ 2021.08.15)
    * BlackCat - 창업학회 혁신상 (2022.10.21)
+   * 건국대학교 SW경진대회 장려상 (2022.11.16)
 
 ## 기타
   * [디자인패턴](https://github.com/lgvv/DesignPattern) + MVC, MVVM, MVP, ReactorKit
