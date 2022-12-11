@@ -9,7 +9,7 @@
 - [Kuring: 교내 공지앱](https://github.com/KU-Stacks)
 - [BlackCat: 타투 플랫폼](https://github.com/CatPlace/black-cat-ios)
 - [AI(CoreML 및 CNN)을 활용한 품질기반 신선식품 분류](https://github.com/lgvv/SmartAI)
-- [Photory](https://github.com/Photory-Official/photory-sdk-ios)
+- [PhotorySDK](https://github.com/Photory-Official/photory-sdk-ios)
 - [원티드 iOS 프리온보딩 챌린지 2022년 11월](https://github.com/lgvv/MyCreditManager)
 
 #### Skill
