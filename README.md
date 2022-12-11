@@ -18,3 +18,7 @@
  - ⭐️⭐️⭐️: Combine, Clean Architecture, Flutter, Github Action, CoreML, AVFoundation, FlexLayout, PinLayout
  - ⭐️⭐️: HTML, CSS, javaScript, Python, C, Vapor, Java
  - ⭐️: 
+
+#### Pin
+ - [디자인패턴](https://github.com/lgvv/DesignPattern)
+ - 
