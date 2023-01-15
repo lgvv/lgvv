@@ -13,8 +13,8 @@
 #### Skill
  - ⭐️⭐️⭐️⭐️⭐️: iOS, SwiftUI, UIKit, Swift
  - ⭐️⭐️⭐️⭐️: RxSwift, ReactorKit
- - ⭐️⭐️⭐️: Combine, Clean Architecture, Flutter, Github Action, CoreML, AVFoundation, FlexLayout, PinLayout
- - ⭐️⭐️: HTML, CSS, javaScript, Python, C, Vapor, Java
+ - ⭐️⭐️⭐️: Combine, Clean Architecture, Flutter, Github Action, CoreML, AVFoundation, FlexLayout, PinLayout, Test Double
+ - ⭐️⭐️: HTML, CSS, javaScript, Python, C, Vapor, Java, TCA
  - ⭐️: 
 
 #### Pin
