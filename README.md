@@ -9,4 +9,4 @@ side project
 
 ### Education
  - Konkuk Univ. 2017.02 ~ 2023.02
-   - Smart ICT Engineering bachelor's degree
+   - Smart ICT Engineering Bachelor's degree
