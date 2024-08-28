@@ -1,4 +1,4 @@
-## iOS Engineer at AfreecaTV (2023.02~)
+## iOS Engineer at SOOP (2023.02~)
 
 
 ### Side Project
