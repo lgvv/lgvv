@@ -1,5 +1,6 @@
 ## iOS Engineer at SOOP (2023.02~)
 
+- 📖 Recently studying `artificial intelligence.`
 
 ### Side Project
 
