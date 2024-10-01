@@ -14,7 +14,6 @@
 ### Tech Skill
    - `SwiftUI`, `UIKit`
    - `RxSwift`, `Combine`, `Swift Concurrency`
-   - `XCTest`
 
 ### Education
 - Konkuk Univ. 2017.02 ~ 2023.02
