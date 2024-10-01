@@ -17,5 +17,5 @@
    - Smart ICT Engineering Bachelor's degree
   
 ### Blog & Wiki
-- [Tistory](https://rldd.tistory.com/)
+- [tistory](https://rldd.tistory.com/)
 - [wiki](https://github.com/wiki)
