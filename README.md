@@ -21,4 +21,3 @@
   
 ### Blog & Wiki
 - [tistory](https://rldd.tistory.com/)
-- [wiki](https://github.com/wiki)
