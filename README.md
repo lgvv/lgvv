@@ -9,7 +9,7 @@
 - 🥊 funch(Similarity Score with Friends) 2024.01.18 ~ 2024.03.02
    - [github](https://github.com/lgvv/moyamoya-ios-app)
 - 📅 dailytodo(iCloud-based widget calendar) 2024.06.08 ~ ing
-   - [AppStore](https://apps.apple.com/kr/app/dailytodo-%EB%8D%B0%EC%9D%BC%EB%A6%AC%ED%88%AC%EB%91%90/id6475230566)
+   - [appstore](https://apps.apple.com/kr/app/dailytodo-%EB%8D%B0%EC%9D%BC%EB%A6%AC%ED%88%AC%EB%91%90/id6475230566)
 
 ### Tech Skill
    - `SwiftUI`, `UIKit`
