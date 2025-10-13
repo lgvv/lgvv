@@ -1,4 +1,4 @@
-## iOS Developer
+## iOS Engineer
 - [SOOP](https://corp.sooplive.co.kr/)
    - 2023.02 ~ ing
 
