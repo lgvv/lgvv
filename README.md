@@ -1,12 +1,14 @@
-## iOS Engineer
+### Career
 - [SOOP](https://corp.sooplive.co.kr/)
    - 2023.02 ~ ing
 
 ### Side Project
-- 📅 dailytodo(iCloud-based widget calendar) 2024.06.08 ~ ing
-   - [appstore](https://apps.apple.com/kr/app/dailytodo-%EB%8D%B0%EC%9D%BC%EB%A6%AC%ED%88%AC%EB%91%90/id6475230566)
 - 🔔 kuring(Konkuk University Notification Service App) 2021.10 ~ 2025.02
    - [github](https://github.com/ku-ring)
+- 📅 dailytodo(iCloud-based widget calendar) 2024.06.08 ~ 2026.01.01
+   - [appstore](https://apps.apple.com/kr/app/dailytodo-%EB%8D%B0%EC%9D%BC%EB%A6%AC%ED%88%AC%EB%91%90/id6475230566)
+   - The service has ended as the developer subscription has expired.
+
 
 ### Tech Skill
    - `SwiftUI`, `UIKit`
